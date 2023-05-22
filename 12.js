@@ -1,4 +1,4 @@
-// Booleans and comparision operators 
+// Booleans and comparision operators .
 
 let num1=10;
 let num2=12;
