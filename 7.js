@@ -1,4 +1,6 @@
 //String Operations 
+
+
 let firstname="       Satnam      ";
 
 console.log(firstname.length);
