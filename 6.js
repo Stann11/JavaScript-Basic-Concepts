@@ -1,4 +1,5 @@
 //String indexing 
+
 let firstname="Satnamasdasdasdasd";
 console.log(firstname)
 console.log(firstname[0]);
