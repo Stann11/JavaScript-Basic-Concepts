@@ -1,5 +1,6 @@
 let firstname="Satnam";
 // let firstname="Mohit";  // error
+
 firstname="mohit"
 console.log(firstname);
 
