@@ -1,4 +1,6 @@
-// objects 
+// objects or object literals 
+// key -> String 
+// key -> symbol 
 
 const person={name:"Satnam",age:20, hobbies:["music","cricket"]};
 console.log(person);
