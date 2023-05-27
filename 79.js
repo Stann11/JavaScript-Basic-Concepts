@@ -1,6 +1,6 @@
 // Object.create method 
 
-// const obj1={
+// const obj1={ 
 //     key1:"Value1",
 //     key2:"Value2"
 // };
